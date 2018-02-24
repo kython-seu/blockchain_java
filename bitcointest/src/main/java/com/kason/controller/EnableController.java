@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created by IBM on 2018/2/19.
  */
+/*
 @RestController
 public class EnableController {
     @RequestMapping("/")
@@ -13,3 +14,4 @@ public class EnableController {
         return "Hello World!";
     }
 }
+*/
